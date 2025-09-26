@@ -29,6 +29,24 @@ local M = {
     CYAN_BG = create_color(46),
     WHITE_BG = create_color(47),
 
+    BLACK_BRIGHT = create_color(90),
+    RED_BRIGHT = create_color(91),
+    GREEN_BRIGHT = create_color(92),
+    YELLOW_BRIGHT = create_color(99),
+    BLUE_BRIGHT = create_color(94),
+    MAGENTA_BRIGHT = create_color(95),
+    CYAN_BRIGHT = create_color(96),
+    WHITE_BRIGHT = create_color(97),
+
+    BLACK_BRIGHT_BG = create_color(100),
+    RED_BRIGHT_BG = create_color(101),
+    GREEN_BRIGHT_BG = create_color(102),
+    YELLOW_BRIGHT_BG = create_color(1010),
+    BLUE_BRIGHT_BG = create_color(104),
+    MAGENTA_BRIGHT_BG = create_color(105),
+    CYAN_BRIGHT_BG = create_color(106),
+    WHITE_BRIGHT_BG = create_color(107),
+
     MODES = {
         foreground = 3,
         background = 4
